@@ -1,5 +1,7 @@
 # HUM-450 Impresso — Swiss Political Discourse Over Time
 
+![Graph](Gazette.jpg)
+
 This project analyzes the evolution of the Swiss political landscape using historical newspaper archives from the *Gazette de Lausanne*. We combine text mining, network analysis, and NLP to study how political actors, parties, and themes evolve across time.
 
 Developed as part of the HUM-450 course, the project uses the Impresso historical newspaper database as its primary data source.
